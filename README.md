@@ -1,4 +1,3 @@
-# PMAccelerator-Assessment
 # 🌦 Weather-Trend Forecasting: A Machine Learning Approach
 
 ## 📌 Project Overview
@@ -91,7 +90,7 @@ The dataset consists of historical weather data, including:
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/PATHAN-0716/Weather-Trend-Forecasting.git
+   git clone https://github.com/padala-lahari07/Data-Meteo.git
    cd Weather-Trend-Forecasting
    ```
 2. Set up the environment:
